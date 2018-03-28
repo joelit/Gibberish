@@ -1,0 +1,359 @@
+   Pohjustus pitkämiekkakurssille
+Alkusanat
+Kokosin tähän dokumenttiin lyhyesti ohjeet Martin Syberin
+pitkämiekkakurssin läpiharjoittelua varten. Osa tekstistä on
+tarkoitettu selitykseksi lukijalle joka ei ole perehtynyt aiheeseen
+tarkemmin, osa on tarkoitettu kertauksena kokeneemmille ja
+osassa kuvailen miten esimerkiksi tällaisen kurssin voisi opettaa
+historiallisilla välineillä.
+Otsikon HEMA alla on joitain huomioita museossa ja
+harrastustilaisuuksissa pitämistäni luennoista siitä mitä
+historiallinen miekkailu pitää sisällään. Aiheen laajempi
+ymmärtäminen on hyödyksi jotta harjoittelija osaa asettaa
+opetettavan materiaalin ja tekniikat kontekstiin niin historiallisesti
+kuin nykypäivän treenimuotonakin. Otsikon Kunst des Fechtens
+alle kaivoin Internetistä tiivistelmän siitä mistä saksalaisessa
+miekkailussa pähkinänkuoressa on kysymys. Tuon ymmärtäminen
+ei ole välttämätöntä kurssin harjoittelun kannalta, mutta siitä on
+hyötyä kertauksena lajia harrastaneille, sillä Martin Syber on
+teoksellaan ollut osa tätä perinnettä ja jakaa selvästi tekniikoita ja
+pääperiaatteita lajin päälinjan kanssa.
+Kurssin johdannossa on auki kirjoitettuna esimerkkejä siitä miten
+miekkauilukurssia voi opettaa historiallisilla välineillä siten että
+oppilaat kykenevät soveltamaan Syberin tekstiä kurssin keston
+rajoissa ilman että harjoittelussa tarvitsee välttämättä turvautua
+moderneihin suojavarusteisiin, koska kaikesta päätellen reilu 500
+vuotta sitten tämän tyyppinen kurssi olisi opetettu lähinnä
+miekkoja, puukeppejä ja lierihattuja käyttäen. Lopuksi mukana on
+käännös Martin Syberin pitkämiekkakurssin alkuperäisestä
+nuoremmasta yläsaksalaisesta tekstistä suomeksi. On huomattava
+että alkuperäinen teksti oli vain värssy, eli riimitelty tiivistelmä
+opetuksen aiheista. Kirjoitin auki selityksen teknisistä termeistä
+KdF:iin perehtyneiden ymmärrykseksi, siten että lajia pidempään
+harrastanut voi halutessaan harjoitella kurssin läpi itsekseen, tai
+opettaa sitä muille.
+1HEMA
+Mitä historiallinen miekkailu on
+Historialliset eurooppalaiset kamppailulajit (HEMA) ovat
+harrastajapiirille melko tuttuja ainakin pääpiirteittäin, mutta mistä
+niissä loppuviimein on kyse? Onko harrastus moderni, joka pohjaa
+vanhoihin teksteihin, historiantutkimukseen ja moderniin
+kamppailulajien ymmärrykseen, vai onko tarkoituksena harjoitella
+vain kuten lähteiden kirjoittamisen aikoihin on harjoiteltu. Ovatko
+eri lähteet yhteensopivia keskenään? Kuinka tavallisia tai
+arvostettuja miekkailutaidot olivat, ja minkälaista miekkailu voi
+nykypäivänä olla. Koitan vastata näihin kysymyksiin samalla kun
+annan pohjatiedot Martin Syberin pitkämiekkakurssin
+(Universitätsbibliothek Salzburg MS M.I.29 fol. 1r-2v, v. 1491)
+tulkintaan ja harjoittelemiseen.
+Kun lähdettä arvioi, on oleellista pohtia kenelle se oli tarkoitettu, ja
+kuka materiaalin on laatinut. Syber lienee nimensä perusteella
+(suom. Martti Seulantekijä) ollut käsityöläinen joka oli
+harrastuksekseen miekkamestari. Hän mainitsee innoittajakseen
+miekkailutyylejä pitkin Eurooppaa, mutta esittelee lähinnä
+varianttia Kunst des Fechtens - tyylin miekkailusta salaisine
+iskuineen. Hän lienee harjoitellut säännöllisesti arkityönsä ohella
+kuten joissain keisarikunnan kaupungeissa oli tapana, ja ilmeisesti
+esiintyi julkisissa taidonnäytteissä miekkamestarina.
+Aikakausi, alue ja mestarin nimen perusteella hänen sosiaalinen
+asemansa viitta varhaiseen fechtschul-perinteeseen, jossa
+tavallisesti sunnuntaisin opetettiin rahvasta miekkailemaan
+kurssimuodossa julkisissa tapahtumissa. Tarpeeksi opiskeltuaan
+miekkailija sai suorittaa mestarinäytön, jonka jälkeen hän sai
+kierrellä opettamassa muita. Joskus näitä mestareita
+kyseenalaistettiin, ja he joutuivat puolustamaan opetusoikeuttaan
+kaksintaisteluin. Tällainen miekkailukulttuuri oli osa Saksan alueen
+kamppailuperinnettä, johon liittyi kansalaisten toimiminen osana
+aseistettua kaupunginvartiota erillisen poliisi- ja palolaitoksen
+sijaan.
+2Miten miekkailuun valmistauduttiin fyysisesti
+Taistelutaitoja pidettiin 1400-luvulla fyysisen kyvykkyyden
+osoituksena, ja miekkailijoiden tiedettiin harjoittaneen fyysistä
+kuntoaan kävelemällä panssareissa, hyppien hevosten yli,
+kiipeillen, heittäen, tanssien, akrobatiaa harrastaen ja painien.
+Mäkiä ja portaita juokseminen, raskaiden kivien nostelu ja
+hyppiminen oli myös osana suosituksia. Ihanteena oli sulavasti
+liikkuva ja vahva taistelija joka kykeni loikkimaan ja tanssimaan.
+Tätä vastoin hitaan maalaisen fysiikkaa karsastettiin, joskin oli
+myöntäminen että sellainen kykenee kävelemään ja kantamaan
+pitkiä matkoja paljon paremmin kuin miekkailijan fysiikalla
+varustettu yksilö.
+Nykypäivänä vaatimustaso on lähinnä sellainen, ettei harjoitellessa
+satu vammautumisia ja että kykenee toistamaan historialliset
+tekniikat. Painissa luonnollisesti räjähtävä voima ja tasapaino ovat
+hyvin tärkeitä jo vammojen ehkäisemisen takia. On myös kyettävä
+nostamaan kilpakumppani lennokkaasti jos haluaa osata kaikki
+tekniikat. Miekkaillessa tärkeää on varsinkin hyvin tukevat nilkat ja
+olkapäät, sillä nyrjähdykset ja rasitusvammat ovat näissä nivelissä
+yleisiä. Toisaalta liikesuunnan nopeat vaihtelut rasituksen alla on
+melko tavallinen tilanne intensiivisesti miekkaillessa, eli tilannetta
+jossa vammoja syntyy ei voi täysin välttää. Tarvitaan malttia ja
+vahvistavaa liikuntaa, sekä rutiinia ja tekniikkaa liikkeiden
+ergonomista suorittamista varten. Myös vahvahko niska
+miekkailumaskin kanssa harjoitellessa on suorastaan oleellinen,
+sillä varsinkin kilpailutilanteissa kovat iskut saattavat heiluttaa
+heikkoniskaisen päätä ja aiheuttaa vaarallisia aivotärähdyksiä.
+Miten siitä selvittiin fyysisesti
+Aseina 1400-luvun lopulla miekkailutapahtumissa oli usein sauvat,
+pitkämiekat tai messerit. Kaupunkivartiostolla sen sijaan saattoi
+olla miekka tai messer, kupurakilpi tai jokin varsiase. Pitkämiekan
+rooli oli ensisijaisesti pedagoginen työkalu, sillä vaika ne olivat vain
+aseena muiden joukossa, yli puolet aikakauden kamppailuteosten
+tekstistä käsitteli pitkämiekkaa, varsinkin ilman panssaria. On
+huomattavaa, että panssaroimaton pitkämiekka ei ole missään
+tapauksessa ollut sodankäynnin väline, sillä taistelukentällä
+panssari ja pitemmät aseet ovat olleet tehokkaampia ja paljon
+yleisemmässä käytössä. Tähän aikaan opetusaseena oli
+yleistymässä ns. fechschwert, tylppä ja taipuisa pitkämiekka, jota
+3käytettiin miekan lappeella vastustajaa päähän näpäyttämällä.
+Suojavarusteena oli tavallisesti lierihattu tai turbaani.
+Suojahansikkaita oli olemassa sekä topattuina että metallisina,
+mutta niiden käyttö näytti olevan harvinaista. Käteen lyömisen
+kieltämistä ja pistojen välttelyä tiedetään käytetyn joissain
+tapauksissa turvallisuusohjeina kilpailuissa.
+Miekkailu oli kuitenkin rankkaa. Sotilaiden luurangoista nähdään
+olkanivelten vammoja, ja miekkailuopettajan saatoi erään
+maininnan mukaan tunnistaa murtuneesta nenästä ja puuttuvista
+hampaista. Monet opettajat elivät kuitenkin vanhaksi - 1400-luvun
+lopulla Johannes Lecküchner kuoli Syberin tekstin aikoihin hieman
+ennen kuudettakymmenettä ikävuottaan ja Fabian von Auerswald
+eli noin 85-vuotiaaksi pysyen kummatkin aktiivisina viimeisiin
+ikävuosiinsa saakka.
+Nykypäivänä suuri osa miekkailuvammoista tulee kilpailuista.
+Pitkämiekan harrastajien parissa alankomaissa 2016 tehdyn
+tutkimuksen perusteella 271 miekkailijan otsoksessa tavallisimmat
+vammat ovat peukaloruhjeita (40,6%:lla), nyrjähdyksiä (36,5%:lla) ja
+rasitusvammoja (28,3%:lla). Murtumat olivat selvästi
+harvinaisempia (10,4%:lla). Täysissä suojavarusteissa
+kilpailutilanteessa tapahtuvan miekkailun arvioitiin olevan noin
+puolet intensiivisempää kuin ilman suojavarusteita tai vähissä
+suojavarusteissa tapahtuvan miekkailun, mutta vähissä varusteissa
+syntyneet vammat olivat myös vähemmän vakavia.
+Miten siitä selvittiin henkisesti
+Miekkailutilanne ei ole kokonaisvaltaista väkivallan kohtaamista
+sen enempää 1400-luvulla kun nytkään. Kyse on ennemminkin
+taidonnäytteestä johon sisältyy
+loukkaantumisen riski. Harvemmin
+kukaan uhkaa miekkailuottelun
+tiimoilta seurata toista osapuolta
+yöllä kotiin ja tulla tekemään
+pahojaan. Sen sijaan miekkailu on
+katsottu hyveelliseksi ja urheutta
+vaativaksi koitokseksi jolla on selkeä
+alku- ja loppupiste. Lajiin on
+sisältynyt paljon ihanteita henkisistä
+ja fyysisistä piirteistä, joita
+emuloimalla miekkailija kykenee
+kohtaamaan lajiin liittyvät vaarat
+4paremmin. Kuolemaanjohtavissa otteluissa on peräänkuulutettu
+hurskautta, rohkeutta, laskelmoivuutta ja leikkimielisyyttä.
+Koulumiekkailutilanteista, eli miekkailunäytöksissä ja kilpailuissa
+tiedettiin kertoa neuvo siitä siitä ettei niissä saa suuttua.
+Miekkamestareista turnajaisiin oppilaitaan valmistelleen Fiore
+Furlan dei Liberin tiedettiin peräänkuuluttaneen voimaa, nopeutta,
+rohkeutta ja tarkkaavaisuutta. Anonyymi Döbringer hausbuchin
+yleisten neuvojen kirjoittaja taasen toivoi oppilaidensa
+kunnitoittavan Jumalaa ja omaavan viisautta, rohkeutta,
+varovaisuutta, viekkautta, nokkeluutta, kohtuullisuutta,
+salailevaisuutta, järkeä, ennakoivuutta, taituruutta,
+harjaantuneisuutta, positiivista asennetta, liikkuvaisuutta,
+notkeutta ja hyvää jalkatyötä. Anonyymi Jeu de la Hachen kirjoittaja
+esitti että tärkeintä on elää hyvää ja hurskasta elämää, toiseksi
+tärkeintä on omistaa hyvä panssari ja kolmanneksi tärkeintä on
+osata käyttää asettaan taitavasti.
+Näissä esimerkeissä lienee yhteistä aktiivinen pyrkimys olemaan
+parempi versio itsestään. Nykypäivänä miekkailuun liittyy myös
+pelkoja ja stressiä, kuten pystynkö toimimaan paineen alla
+taitavasti vai jäädynkö tyhmästi aloilleni, miten muut kokevat
+minut miekkailijana, vammaudunko seuraavissa kisoissa, onkohan
+opiskelemani lähde yhtä hyvä kun jonkun toisen miekkailijan
+opiskelema lähde, jne. Näihin auttaa ainakin se, että
+miekkailuharjoittelu valmistaa tutussa ja turvallisessa ympäristössä
+harjoittelijaa kohtaamaan erilaisia miekkailutilanteita. Itse
+miekkailutilanne on usein stressaava. Siinä asetetaan harrastajan
+fysiikka ja vikkelyys sekä päätöksentekokyky vastakkain toisen
+harrastajan kanssa tilanteessa, missä pitää toimia arkailematta
+vaikka tilanteeseen liittyy riskejä. Ajan kuluessa harjoittelusta
+tarttuu mukaan positiivisia muistoja ja mielikuvia
+miekkailemisesta. Onnistuneet tekniset suoritukset tilanteissa
+joissa harjoittelija kokee ylittäneensä itsensä suhteessa siihen mitä
+on aiemmin muistanut olleensa tuovat varmuutta kohdata vähän
+stressaavampiakin tilanteita.
+Mitä olivat yhteiskunnan asenteet miekkailuun
+Miekkailusta puhuttiin ritarillisena lajina, jos ei muuten niin
+ainakin miekkailuteosten esittelyteksteissä. Kuitenkin harjoittelu
+oli sellaista mikä kuului myös rahvaan arkeen. Rettelöitsemistä ei
+katsottu 1400-luvullakaan hyvästi, mutta kurinalainen
+aseharjoittelu oli suotavaa niin kauan kun se ei johtanut
+5järjestyshäiriöihin. Keisarikunnan vapaakaupunkien yövartiostot
+koostuivat kaupungin kaikista 16 - 60 -vuotiaista miehistä, jotka
+kuuluivat käsityökiltoihin ja siten olivat oikeutettuja asumaan
+kaupungissa ja käymään kauppaa. Näiden kansalaisten tuli omistaa
+omat aseensa ja harjoitella niillä säännöllisesti. Laiminlyönneistä
+harjoittelun ja varustelutason suhteen saatettiin jakaa
+sakkorangaistuksia. Yövartiointiin tuli osallistua 2-3 yönä
+kuukaudessa järjestystä ylläpitämässä. Vaikka kaupunki oli täynnä
+aseen käyttöön tottuneita miehiä, suhtautuminen
+kaksintaisteluihin oli ankaraa oli tilanteella lain suoja tai ei. Sen
+sijaan aatelisten panssaroidut näytösottelut olivat suosiossa,
+kunhan ne saatiin ajoissa loppumaan ennen kuin kenellekään käy
+huonosti.
+Mitä muutoksen trendejä miekkailussa oli
+1400-luvulta meille on säilynyt nelisenkymmentä kamppailutekstiä,
+joissa kuvaillaan tekniikoita erilaisilla varusteilla, joihin sisältyi
+usein panssaria ja ratsuväkeä. Laajuudeltaan nämä teokset ovat
+olleet keskimäärin 150 sivun luokkaa, joista valtaosa on ollut
+panssaroimatonta pitkämiekkaa, mutta selvästi suuressa osassa on
+ollut harjoitteet joita on tehty panssarit päällä. Tämä on ollut osa
+sen ajan fyysistä kulttuuria ja sodankäynnin taitoa.
+1500-luvulle tultaessa miekkailu- ja kamppailutekstien määrä
+kasvoi huomattavasti, ja oppien teoriapuoli näytti kehittyvän. Siinä
+missä alkuperäinen Liechtenauerin värssy sisälsi viisi
+mestaritekniikkaa ja seitsemän varoasentoa, Joachim Meÿerillä oli
+pikämiekalle 16 lyöntiä ja 12 varoasentoa, jotka toki oli jaoteltu
+keskeisiin ja toissijaisiin. Näihin aikoihin rahvaanomaisesta
+miekkailusta on yhä enemmän tietoa, joskin siihen yhä liitettiin
+ritarillisuuden käsitteitä.
+Millaisissa muodoissa meille on jäänyt tietoa
+miekkailusta
+Siinä missä varsinaisia miekkailuteoksia on hyvä määrä, saamme
+kattavamman kokonaiskuvan jos seuraamme myös erilaisia
+sivullisten kuvauksia miekkailusta ja varusteista. Säilyneistä
+miekoista ja niistä tehdyistä mittauksista huomataan että ne ovat
+olleet varsin kevyitä ja liikkuvaisia aseita, joiden kärjen sijaintia on
+helppo hallita, mutta joilla voi antaa tukevia iskuja noin
+kolmanneksen terän mittaa kärjestä tyveen päin.
+6Pikämiekan massan jakauma käsittelyominaisuuksiin liittyvine
+tunnuspisteineen.
+Kuitenkaan miekkojen teräksen laatu ei ollut yhtä hyvää kuin tänä
+päivänä, joten hallittavuuden lisäksi niitä on täytynyt käyttää melko
+harkiten ja kevyellä kädellä ellei ole halunnut tosissaan rikkoa
+asettaan miekkailun lomassa. Samaan aikaan panssarit oli
+suunniteltu erityisesti toimimaan silloin käytettyjä aseita vastaan,
+jolloin tarvittiin varovaisuutta ja erityistä tekniikkaa panssaroidun
+vastustajan voittamiseen.
+Siinä missä panssareita ja aseita ei ole tyypillisesti säilynyt
+1400-luvulta täydellisinä kokonaisuuksina meidän päiviimme asti,
+kuvitetut lähteen niin miekkailukirjoissa kuin maalaustaiteessa
+antavat konsistentin kuvan aseiden ja varusteiden kehittymisestä.
+Tarkimpia kuvauksia ovat näiden rinnalla merkkihenkilöiden
+hautamonumentit, joihin on usein kuvattu sen ajan hienoimmat
+panssarit ja aseet elämänsä kunnossa kuvattuna olleen vainajan
+patsaan päällä. Taistelukenttävainajista taas nähdään minkälaisia
+aseperäisiä traumoja heillä on kuolinhetkellään ollut, ja minkälaisia
+parantuneita vammoja heille on aikaisemmin tullut harjoittelusta ja
+taistelemisesta.
+Näiden lisäksi meille on säilynyt jonkin verran säännöstöjä,
+lakitekstejä ja oikeudenkäyntipöytäkirjoja miekkailuun liittyen.
+Näistä on luettavissa ettei kaksintaisteluita suvaittu kevyin
+perustein, mutta toisaalta voitiin katsoa että tietyissä tilanteissa
+oikeutta sai ottaa omiin käsiin verikoston ja yksityisen
+7sodankäynnin nimissä. Miekkailukilpailuissa ja hieman yllättävästi
+myös kaksintaisteluissa tietyt tekniikat tai osumakohdat saattoivat
+olla kiellettyjä rangaistuksen uhalla. Kamppailukulttuurista on
+säilynyt meidän päiviimme jäänteitä lähinnä erilaisten
+miekkatanssien, urheilumiekkailun, perinnepainin ja ratsastuksen
+parissa. Näistä kaksi jälkimmäistä eivät välttämättä ole muuttuneet
+ajan saatossa samalla tavoin kuin itse miekkailu, ja antavat osviittaa
+taidokkaasta ja toisaalta rämäpäisestäkin fyysisestä kulttuurista.
+Sellaisia teoksia joihin on yksityiskohtaisesti kuvattu miekkailu- ja
+taistelutekniikoita, on säilynyt meidän päiviimme runsaasti.
+Tiedossa on 47 teosta 1400-luvulta ja 76 teosta 1500-luvulta
+Wiktenaueriin listattuna, joiden keskipituus on ollut 190 sivua.
+Tavallisimmin ne ovat kokoelmateoksia, jotka käsittelevät taistelua
+erilaisilla aseilla, aiheena tyypillisesti pitkämiekkaa, taistelua
+ratsain, painia, yhdenkäden miekkaa ja tikaria. Tarkempaa
+jaottelua alla.
+Wiktenaueriin listattujen taisteluoppaiden sivumäärät kirjoituskielen ja
+vuosikymmenen mukaan
+Mitä eri harrastusmuotoja siihen nykyään liittyy
+Nykypäivänä 1400-luvun miekkailun ympärille on kehittynyt
+monenlaisia harrastusmuotoja, joista vain pieni osa on
+historiallista miekkailua. HEMA:n sisälläkin on paljon varianssia
+siitä, harrastaako miekkailua vain sosiaalisena liikuntamuotona,
+perinteisenä kamppailulajina leikkuuharjoituksineen, tutkimus- ja
+opetustyönä, kilpailu- ja valmennustoimintana tai vain Internetissä
+keskustellen.
+8Toisille historiallinen paini saattaa olla oleellisena osana
+kamppailukulttuuria miekkailun ohella siinä missä toiset
+vierastavat ja arastelevat sitä siinä missä ratsastustakin.
+Kuitenkin historiallisesta painista ja ratsumiekkailusta on tänä
+päivänä omat innokkaat alakulttuurinsa opetusseminaareineen,
+harjoitusleireineen ja kilpailuineen. Miekkailukoulujen
+opetustyyleissä toiset vannovat miekkailuopetuksessa modernin
+urheilumiekkailun pedagogiikan nimeen, kun taas toiset
+noudattavat suosittujen kamppailulajien valmennusoppeja,
+kolmannet tekevät vain kuten lähdeteoksessa ohjeistetaan ilman
+sen kummempaa analyysiä. Myönnettäköön että omassa
+taustassani sekoittuvat iloisesti nuo kaikki.
+Eurooppalaisesta miekkailusta on kehitetty myös muita
+harrastuksia. Viime vuosisadan puolivälistä lähtien taistelujen ja
+sotilastoiminnan elävöittäminen on saanut suurta suosiota, ja
+taisteluiden vuosipäivinä samalle historialliselle kentälle saattaa
+kokoontua tuhansia osanottajia mallintamaan taistelukentän
+liikkeitä aikakautisissa varusteissa. Itse miekkailu on tehty
+sellaiseksi että tuhannet toisille vieraat ihmiset saattavat esiintyä
+keskenään ilman merkittävää vaaraa. Toisaalla taas on haluttu
+hieman kovempaa kontaktia ja rottinkitaistelun tai HMB:n nimissä
+käytetään raskaita panssareita ja puusta tai metallista tehtyjä
+nuijia, joilla taistellaan mahdollisimman lujaa mutta vain
+turvallista tekniikkaa käyttäen, hieman kuin käytettäisi periaatteita
+joilla taisteltaisiin panssaroimattoman ihmisen kanssa, mutta
+osanottajat käyttävät turvallisuuden nimissä sekoitusta modernista
+ja historiallisesta panssarista, jonka läpäiseminen historiallisella
+panssarimiekkailutekniikalla on säännöissä kielletty.
+Elävöitysmiekkailun pohjalta on kehittynyt myös säännöstö
+fyysisen teatterin työkaluksi näyttämötaisteluun, jolla voi saada
+aikaan näyttäviä miekkailukohtauksia ilman suojavarusteita siten,
+että miekkailun henki välittyy katsojalle mahdollisimman selkeästi
+- usein paljon selkeämmin kuin miten varsinaisessa miekkailussa
+olisi asian laita. Toinen helposti lähestyttävä miekkailumuoto on
+pehmomiekkailu, joka varsinkin Suomen harrastajapiirissä on
+suosittu lähtökohta nuorille harrastajille kilpailumuotona ja oivana
+ryhmäliikuntana.
+9Historiallisten kamppailulähteiden joukosta löytyy yhä lajeja joita ei ole
+tänä päivänä kokeiltu. Kuva 1500-luvun alkupuolen bohurtista. Tässä
+lajissa sonnustauduttiin usein komein kypäräkoristein, joiden rikkomisesta
+sai vastustajan häviämään. Aseistukseen kuului puiset pamput ja hevoset.
+Millaisilla varusteilla sitä voi tehdä
+Kaikesta päätellen miekkailua voi harjoittaa jos käytössä on miekka
+ja liikuntaan sopivat vaatteet, tästä esimerkkinä on lähes kaikki
+säilyneet miekkailuteokset, sillä noilla varusteilla valtaosa 1400 -
+1500 -luvun tekniikkakuvauksista on kuvitettuna. Vammautumisen
+riski on aikanaan ollut merkittävämpi, sillä ihmiset ovat olleet
+riippuvaisia fyysisestä kunnostaan, oli kyseessä sitten nuori
+aatelinen jolla on sodankäyntiin liittyviä velvollisuuksia tai rahvaan
+edustaja joka elätti itseään käsityöläisenä.
+Nykyään on tyypillisempää että harjoituksissa käytetään muovista
+tai taipuisaa teräksistä miekkaa, tarkoitusta varten kehitettyjä
+suojakäsineitä ja raskastekoista urheilumiekkailumaskia.
+Kilpailuissa on lisäksi käytössä pistosuojattu ja pehmustettu takki
+sekä kovat suojakupit. Variaatiota löytyy, ja kaikki aseet eivät kaipaa
+samanlaisia suojavarusteita. Esimerkiksi pitkillä varsiaseilla
+valtaosasta kevyitä panssareita ei ole juuri hyötyä, joten sitä
+tehdään käytännössä ilman suojavarusteita tai vaihtoehtoisesti
+täysissä historiallisissa panssareissa. Luonnollisesti painissa ei
+tarvita muuta kuin mahdollisesti pehmustettu lattia ja takki josta
+retuuttaa, mutta ilmankin näitä pärjää melko pitkälle.
+10Mitä HEMA:sta saa irti
+Nykypäivänä laji on harrastus joka haastaa kehoa ja mieltä. Pitkät
+aseet ovat hyvin erilainen konteksti kamppailulle, varsinkin silloin
+kun taisteluetäisyys vaihtelee kehokontaktista kahteen metriin.
+Koordinaation ja voimantuoton lisäksi laji haastaa älyllisesti
+oppimateriaalia vertaillessa sillä emme täysin tiedä miten kutakin
+HEMA:iin kuuluvaa lajia on opetettu. Historiallinen paini lienee
+helpointa lähestyä, sillä painissa harjoittelukonteksti muistuttaa
+suuresti sen kaikkia sovellustilanteita ja myös harjoittelu on pitkälti
+samanlaista kuin nykyäänkin.
+Miekkailu on sen sijaan hieman vaikeammin lähestyttävää sillä
+enne osaa yhdistää harjoittelukonteksita sovelluskontekstiin
+samalla tavoin tehokkaasti, emmekä voi varmuudella sanoa
+minkälainen sovelluskonteksti miekkailulle olisi parasta. Tästä
+syystä historiallinen miekkailu on alati luovaa ja älyllisesti
+kurinalaista työskentelyä jossa saa ja pitää kyseenalaistaa käytössä
+olevia harjoittelutapoja. Laji on itsessään melko turvallinen, joskin
+kilpaillessa loukkaantumisriski on käytännössä sellainen että on
+puolustajasta kiinni onko vastustajan seuraava liike jollain tavoin
+vammauttava. Silti haavereita sattuu vain vähän, eli laji pakottaa
+kilpailijat keskittymän herkeämättä mikä on arvokas taito
+itsessään.
